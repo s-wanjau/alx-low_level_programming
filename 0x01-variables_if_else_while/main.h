@@ -2,4 +2,5 @@
 #define MAIN_H
 int _atoi(char *s);
 int _putchar(char c);
+int _isalpha(int c);
 #endif
